@@ -1,0 +1,181 @@
+html, body{
+  height: 100%;
+  margin: 0px;
+  overflow: hidden;
+}
+.naslov-kat-div{
+  width: 100%;
+  border-bottom: solid black 1px;
+  text-align: center;
+}
+.kategorije-div {
+  background-color: whitesmoke;
+  width: 25%;
+  height: 100%;
+  float: left;
+  overflow-y: scroll;
+  box-shadow: 5px 10px 10px 0 grey;
+}
+.lista-kategorija{
+  display: flex;
+  flex-direction: column;
+}
+.single-kategorija{
+  margin-top: 20px;
+  min-height: 130px;
+  border-bottom: solid black 1px;
+}
+.naslov-i-dugmici-kat{
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+}
+.naziv-kategorije{
+  width: 50%;
+  float: left;
+  padding-left: 30px;
+}
+.lista-proizvoda{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+.dodaj-proizvod{
+  margin-top: 10px;
+}
+.single-proizvod{
+  display: flex;
+  align-items: center;
+  float: left;
+  border: solid grey 1px;
+  border-radius: 5px;
+  margin: 5px;
+}
+.edit-delete{
+  margin: 5px;
+  background-color: white;
+  border: solid #f0e5d3 1px;
+  transition-duration: 0.4s;
+  color: black;
+  border-radius: 5px;
+  width: 25px;
+  height: 25px;
+}
+.edit-kat{
+  position: absolute;
+  right: 0;
+  
+}
+.delete-kat{
+  position: absolute;
+  right: 30px;
+  
+}
+.edit-delete:hover{
+  background-color: #f0e5d3;
+  color: white;
+}
+.recepti-div{
+  width: 75%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-image: url("slike/poz3.jpg");
+  background-size: cover;
+  overflow-y: scroll;
+  justify-content: space-around;
+}
+.single-recept{
+  width: 300px;
+  height: 400px;
+  margin-top: 30px;
+  float: left;
+  border: solid #f0e5d3 3px;
+  border-radius: 5%;
+  background-color:#f0e5d3;
+  transition-duration: 0.3s;
+  padding: 10px;
+}
+.single-recept:hover{
+  box-shadow: 0px 0px 10px 0 grey;
+}
+.slika-recept{
+  width: 100%;
+  height: 50%;
+  border-radius: 5%;
+}
+.opis-recepta{
+  height: 20%;
+  overflow: hidden;
+}
+.sastojci{
+  width: inherit;
+  height: 20%;
+  margin-top: -10%;
+  margin-left: 10px;
+}
+.sastojak{
+  height: 20px;
+  float: left;
+  margin-left: 10px;
+  color: darkgreen;
+  padding-top: 0%;
+}
+.dodaj-pretrazi-div{
+  z-index: 5;
+  height: 30px;
+  background-color: rgba(218, 181, 181, 0.973);
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border-bottom: solid grey 1px;
+}
+.dodaj-pretrazi{
+  height: 35px;
+}
+.popUp{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+.popUp-sadrzaj {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 20%;
+}
+.forma{
+  display: flex;
+  flex-direction: column;
+}
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+.popUp-body {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+.popUp-footer {
+  display: flex;
+  justify-content: space-around;
+}
