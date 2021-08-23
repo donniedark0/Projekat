@@ -26,6 +26,33 @@ namespace WEB_Programiranje_projekat.Controllers{
         {
             return await Context.Recepti.Include(p => p.Sastojci).ToListAsync();
         }
+        [Route("PosaljiSastojke")]
+        [HttpPut]
+
+        public async Task<List<Recept>> PosaljiSastojke([FromBody] List<int> ids){
+            
+            List<Recept> recepti = await Context.Recepti.Include(p => p.Sastojci).ToListAsync();
+            List<Recept> receptiZaSlanje = new List<Recept>();
+            foreach (var recept in recepti)
+            {
+                int ind = 0;
+                ICollection<Sastojci> Sastojci = recept.Sastojci;
+                int duzina = 0;
+                foreach (var sastojak in Sastojci)
+                {duzina++;
+                    foreach (var id in ids)
+                    {
+                        if(sastojak.IdProizvoda == id){
+                            ind++;
+                        }
+                    }
+                }
+                if(ind == duzina){
+                    receptiZaSlanje.Add(recept);
+                }
+           }
+           return receptiZaSlanje;
+        }
 
         [Route("PreuzmiRecept/{id}")]
         [HttpGet]

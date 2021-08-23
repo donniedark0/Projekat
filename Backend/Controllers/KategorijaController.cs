@@ -30,9 +30,10 @@ namespace WEB_Programiranje_projekat.Controllers{
         [Route("DodajKategoriju")]
         [HttpPost]
 
-        public async Task DodajKategoriju([FromBody] Kategorija kategorija){
+        public async Task<int> DodajKategoriju([FromBody] Kategorija kategorija){
             Context.Kategorije.Add(kategorija);
             await Context.SaveChangesAsync();
+            return kategorija.Id;
         }
 
         [Route("IzmeniKategoriju/{id}")]

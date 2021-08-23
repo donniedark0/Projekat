@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DK4MWInlx4BnlR9dbQqqOmQzvXXcxXc63raGaBlSgaVQw3WiWZgtuN3Enkw3yAeYE0KIbPrNLAwVLVVNwZ4B3A==",
+  "dgSpecHash": "fBuVsRZel8tZlJ0mnbJIxB54NSyR4vwrlbrND/0fUkJLie5b0jVrJL6REgmUAMlsgw0AE52Ny0+rASEp8H0gEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\darko\\Desktop\\WEB Programiranje projekat - Copy\\Backend\\WEB Programiranje projekat.csproj",
+  "projectFilePath": "C:\\Users\\darko\\Desktop\\WEB Programiranje projekat - Copy\\projekat\\Backend\\WEB Programiranje projekat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\darko\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\darko\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.8\\microsoft.aspnetcore.jsonpatch.5.0.8.nupkg.sha512",

@@ -8,6 +8,7 @@ export class Proizvod{
     }
    
     CrtajProizvod(host){
+        var thisptr = this;
         var singleProiz = document.createElement("div");
         singleProiz.classList.add("single-proizvod");
         var nazivCheckbox = document.createElement("input");
@@ -36,6 +37,15 @@ export class Proizvod{
                     mode: 'cors'
                 }).then(resp => {
                     if (resp.status == 204) {
+                        document.querySelectorAll(".naziv-checkbox").forEach(p =>{
+                            const parent = p.parentNode;
+                            if(p.value == id){
+                                while(p.firstChild){
+                                    parent.removeChild(parent.firstChild);
+                                }
+                                parent.remove();
+                            }
+                        })
                         alert("Uspesno ste izbrisali proizvod!");
                     }
                 });
@@ -61,7 +71,12 @@ export class Proizvod{
                     })
                 }).then(resp => {
                     if (resp.status == 204) {
-                        this.naziv = noviNaziv;
+                        document.querySelectorAll(".naziv-proizvoda-labela").forEach(p=>{
+                            if(p.innerText == thisptr.naziv){
+                                p.innerText = noviNaziv
+                                thisptr.naziv = noviNaziv;
+                            }
+                        })
                         alert("Uspesno ste izmenili naziv proizvod!");
                     }
                 });

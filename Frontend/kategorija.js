@@ -77,6 +77,9 @@ export class Kategorija{
                 })
             }).then(resp => {
                 if (resp.status == 204) {
+                    const proizvod = new Proizvod(id, naziv, thisptr.id, []);
+                    thisptr.listaProizvoda.push(proizvod);
+                    proizvod.CrtajProizvod(samoLista);
                     alert("Uspesno dodat proizvod!");
                 }
                 else{
@@ -100,6 +103,20 @@ export class Kategorija{
                     mode: 'cors'
                 }).then(resp => {
                     if (resp.status == 204) {
+                        document.querySelectorAll(".naziv-kategorije").forEach(p =>{
+                            const parent = p.parentNode;
+                            if(p.innerText == thisptr.naziv){
+                                while(parent.firstChild){
+                                    parent.removeChild(parent.firstChild);
+                                }
+                                const MainParent = parent.parentNode;
+                                while(parent.firstChild){
+                                    MainParent.removeChild(MainParent.firstChild);
+                                }
+                                MainParent.remove();
+                            }
+                           
+                        })
                         alert("Uspesno ste izbrisali kategoriju!");
                     }
                 });
@@ -126,7 +143,11 @@ export class Kategorija{
                     })
                 }).then(resp => {
                     if (resp.status == 204) {
-                        thisptr.naziv = noviNaziv;
+                        document.querySelectorAll(".naziv-kategorije").forEach(p=>{
+                            if(p.innerText == thisptr.naziv){
+                                p.innerText = noviNaziv
+                            }
+                        })
                         alert("Uspesno ste izmenili naziv kategorije!");
                     }
                 });

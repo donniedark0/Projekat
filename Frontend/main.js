@@ -113,7 +113,11 @@ fetch("https://localhost:5001/Kategorija/PreuzmiKategorije").then( p => {
                 })
             }).then(resp => {
                 if (resp.status == 200) {
-                    alert("Uspesno dodata kategorija!");
+                    resp.json().then(id => {
+                        const kat = new Kategorija(id, naziv, []);
+                        kat.CrtajKategoriju(listaKategorija);
+                        alert("Uspesno dodata kategorija!");
+                    })
                 }
             });
         };
@@ -134,7 +138,26 @@ dugmePretrazi.onclick = function(){
         cekiraniSastojci.push(checkboxes[i].value)
     }
 
-    fetch("https://localhost:5001/Recept/PreuzmiRecepte").then( p => {
+    var stringified = JSON.stringify(cekiraniSastojci);
+    console.log(stringified)
+
+    fetch("https://localhost:5001/Recept/PosaljiSastojke", {
+                    method: 'PUT',
+                    mode: 'cors',
+                    body: stringified,
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                }).then(resp => {
+                    resp.json().then(data => {
+                        data.forEach(recept => {
+                            const rec = new Recept(recept.id, recept.naziv, recept.opis, recept.slika, recept.sastojci);
+                            rec.CrtajRecepte(receptiDiv);     
+                        });
+                    });
+                });
+
+   /* fetch("https://localhost:5001/Recept/PreuzmiRecepte").then( p => {
         p.json().then(data => {
             data.forEach(recept => {
                 var indikator = 0;
@@ -153,7 +176,7 @@ dugmePretrazi.onclick = function(){
                     
             });
         });
-    });
+    });*/
 }
 
 document.body.appendChild(kategorijeDiv);

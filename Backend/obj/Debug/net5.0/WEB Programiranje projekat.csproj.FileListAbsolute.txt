@@ -253,3 +253,88 @@ C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\Backend\obj\Debug\net5.
 C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\Backend\obj\Debug\net5.0\ref\WEB Programiranje projekat.dll
 C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\Backend\obj\Debug\net5.0\WEB Programiranje projekat.pdb
 C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\Backend\obj\Debug\net5.0\WEB Programiranje projekat.genruntimeconfig.cache
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\appsettings.json
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\WEB Programiranje projekat.exe
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\WEB Programiranje projekat.deps.json
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\WEB Programiranje projekat.runtimeconfig.json
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\WEB Programiranje projekat.runtimeconfig.dev.json
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\WEB Programiranje projekat.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\ref\WEB Programiranje projekat.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\WEB Programiranje projekat.pdb
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.csproj.AssemblyReference.cache
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.AssemblyInfoInputs.cache
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.AssemblyInfo.cs
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.csproj.CoreCompileInputs.cache
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\staticwebassets\WEB Programiranje projekat.StaticWebAssets.Manifest.cache
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\staticwebassets\WEB Programiranje projekat.StaticWebAssets.xml
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\scopedcss\bundle\WEB Programiranje projekat.styles.css
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.RazorTargetAssemblyInfo.cache
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.csproj.CopyComplete
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\ref\WEB Programiranje projekat.dll
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.pdb
+C:\Users\darko\Desktop\WEB Programiranje projekat - Copy\projekat\Backend\obj\Debug\net5.0\WEB Programiranje projekat.genruntimeconfig.cache

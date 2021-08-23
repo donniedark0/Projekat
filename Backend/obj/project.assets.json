@@ -6006,11 +6006,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darko\\Desktop\\WEB Programiranje projekat - Copy\\Backend\\WEB Programiranje projekat.csproj",
+      "projectUniqueName": "C:\\Users\\darko\\Desktop\\WEB Programiranje projekat - Copy\\projekat\\Backend\\WEB Programiranje projekat.csproj",
       "projectName": "WEB Programiranje projekat",
-      "projectPath": "C:\\Users\\darko\\Desktop\\WEB Programiranje projekat - Copy\\Backend\\WEB Programiranje projekat.csproj",
+      "projectPath": "C:\\Users\\darko\\Desktop\\WEB Programiranje projekat - Copy\\projekat\\Backend\\WEB Programiranje projekat.csproj",
       "packagesPath": "C:\\Users\\darko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darko\\Desktop\\WEB Programiranje projekat - Copy\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\darko\\Desktop\\WEB Programiranje projekat - Copy\\projekat\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
